@@ -2,6 +2,8 @@
 
 This project is a simple frontend application built with Next.js and React to retrieve and display the balance and executable status of a Solana address.
 
+For To Check How It Works- [Click Here](https://building-a-solana-web-app.vercel.app/)
+
 # Usage
 
 To use this application, follow these steps:
